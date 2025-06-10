@@ -1,0 +1,108 @@
+id,parentId,name,lastName,position,image,email,phone_number,hire_date,job_id,salary,commission_pct,department_id,job_min_salary,location_state,job_max_salary,department_name,department_location_id,department_location_street_address,department_location_postal_code,department_location_country_id,department_location_country_name,department_location_country_region_id,department_location_country_region_name
+100,,,,CIO,,SKING,515.123.4567,2003-07-16T19:00:00.000Z,AD_PRES,24000,,90,20080,Washington,40000,Executive,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+101,100,,,Business Capabilities,,NKOCHHAR,515.123.4568,2005-10-20T20:00:00.000Z,AD_VP,17000,,90,15000,Washington,30000,Executive,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+102,100,,,Core Platforms,,LDEHAAN,515.123.4569,2001-02-12T20:00:00.000Z,AD_VP,17000,,90,15000,Washington,30000,Executive,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+103,100,,,Strategy and Governance,,AHUNOLD,590.423.4567,2006-02-02T20:00:00.000Z,IT_PROG,9000,,60,4000,Texas,10000,IT,1400,2014 Jabberwocky Rd,26192,US,United States of America,2,Americas
+104,101,,,Business Solutions,,BERNST,590.423.4568,2007-06-20T20:00:00.000Z,IT_PROG,6000,,60,4000,Texas,10000,IT,1400,2014 Jabberwocky Rd,26192,US,United States of America,2,Americas
+105,101,,,Store technology and payments,,DAUSTIN,590.423.4569,2005-07-24T20:00:00.000Z,IT_PROG,4800,,60,4000,Texas,10000,IT,1400,2014 Jabberwocky Rd,26192,US,United States of America,2,Americas
+106,101,,,Digital consumer products,,VPATABAL,590.423.4560,2006-03-04T20:00:00.000Z,IT_PROG,4800,,60,4000,Texas,10000,IT,1400,2014 Jabberwocky Rd,26192,US,United States of America,2,Americas
+107,101,,,AI & Business Intelligence,,DLORENTZ,590.423.5567,2007-03-06T20:00:00.000Z,IT_PROG,4200,,60,4000,Texas,10000,IT,1400,2014 Jabberwocky Rd,26192,US,United States of America,2,Americas
+,,,,,,NGREENBE,515.124.4569,2002-09-16T19:00:00.000Z,FI_MGR,12008,,100,8200,Washington,16000,Finance,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+,,,,,,DFAVIET,515.124.4169,2002-09-15T19:00:00.000Z,FI_ACCOUNT,9000,,100,4200,Washington,9000,Finance,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+,,,,,,JCHEN,515.124.4269,2005-10-27T20:00:00.000Z,FI_ACCOUNT,8200,,100,4200,Washington,9000,Finance,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+,,,,,,ISCIARRA,515.124.4369,2005-10-29T20:00:00.000Z,FI_ACCOUNT,7700,,100,4200,Washington,9000,Finance,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+,,,,,,JMURMAN,515.124.4469,2006-04-06T20:00:00.000Z,FI_ACCOUNT,7800,,100,4200,Washington,9000,Finance,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+,,,,,,LPOPP,515.124.4567,2008-01-06T20:00:00.000Z,FI_ACCOUNT,6900,,100,4200,Washington,9000,Finance,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+,,,,,,DRAPHEAL,515.127.4561,2003-01-06T20:00:00.000Z,PU_MAN,11000,,30,8000,Washington,15000,Purchasing,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+,,,,,,AKHOO,515.127.4562,2003-06-17T19:00:00.000Z,PU_CLERK,3100,,30,2500,Washington,5500,Purchasing,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+,,,,,,SBAIDA,515.127.4563,2006-01-23T20:00:00.000Z,PU_CLERK,2900,,30,2500,Washington,5500,Purchasing,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+,,,,,,STOBIAS,515.127.4564,2005-08-23T20:00:00.000Z,PU_CLERK,2800,,30,2500,Washington,5500,Purchasing,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+,,,,,,GHIMURO,515.127.4565,2006-12-14T20:00:00.000Z,PU_CLERK,2600,,30,2500,Washington,5500,Purchasing,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+,,,,,,KCOLMENA,515.127.4566,2007-09-09T20:00:00.000Z,PU_CLERK,2500,,30,2500,Washington,5500,Purchasing,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+,,,,,,MWEISS,650.123.1234,2004-08-17T20:00:00.000Z,ST_MAN,8000,,50,5500,California,8500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,AFRIPP,650.123.2234,2005-05-09T20:00:00.000Z,ST_MAN,8200,,50,5500,California,8500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,PKAUFLIN,650.123.3234,2003-05-31T19:00:00.000Z,ST_MAN,7900,,50,5500,California,8500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,SVOLLMAN,650.123.4234,2005-11-09T20:00:00.000Z,ST_MAN,6500,,50,5500,California,8500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,KMOURGOS,650.123.5234,2007-12-15T20:00:00.000Z,ST_MAN,5800,,50,5500,California,8500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,JNAYER,650.124.1214,2005-08-15T20:00:00.000Z,ST_CLERK,3200,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,IMIKKILI,650.124.1224,2006-10-27T20:00:00.000Z,ST_CLERK,2700,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,JLANDRY,650.124.1334,2007-02-13T20:00:00.000Z,ST_CLERK,2400,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,SMARKLE,650.124.1434,2008-04-07T20:00:00.000Z,ST_CLERK,2200,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,LBISSOT,650.124.5234,2005-09-19T20:00:00.000Z,ST_CLERK,3300,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,MATKINSO,650.124.6234,2005-11-29T20:00:00.000Z,ST_CLERK,2800,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,JAMRLOW,650.124.7234,2005-03-15T21:00:00.000Z,ST_CLERK,2500,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,TJOLSON,650.124.8234,2007-05-09T20:00:00.000Z,ST_CLERK,2100,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,JMALLIN,650.127.1934,2004-07-13T20:00:00.000Z,ST_CLERK,3300,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,MROGERS,650.127.1834,2006-09-25T20:00:00.000Z,ST_CLERK,2900,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,KGEE,650.127.1734,2008-01-11T20:00:00.000Z,ST_CLERK,2400,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,HPHILTAN,650.127.1634,2008-03-05T20:00:00.000Z,ST_CLERK,2200,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,RLADWIG,650.121.1234,2003-08-13T19:00:00.000Z,ST_CLERK,3600,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,SSTILES,650.121.2034,2005-11-25T20:00:00.000Z,ST_CLERK,3200,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,JSEO,650.121.2019,2006-03-11T20:00:00.000Z,ST_CLERK,2700,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,JPATEL,650.121.1834,2006-05-05T20:00:00.000Z,ST_CLERK,2500,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,TRAJS,650.121.8009,2003-11-16T20:00:00.000Z,ST_CLERK,3500,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,CDAVIES,650.121.2994,2005-02-28T21:00:00.000Z,ST_CLERK,3100,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,RMATOS,650.121.2874,2006-04-14T20:00:00.000Z,ST_CLERK,2600,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,PVARGAS,650.121.2004,2006-08-08T20:00:00.000Z,ST_CLERK,2500,,50,2008,California,5000,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,JRUSSEL,011.44.1344.429268,2004-10-31T21:00:00.000Z,SA_MAN,14000,0.4,80,10000,Oxford,20080,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,KPARTNER,011.44.1344.467268,2005-02-04T21:00:00.000Z,SA_MAN,13500,0.3,80,10000,Oxford,20080,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,AERRAZUR,011.44.1344.429278,2005-04-09T20:00:00.000Z,SA_MAN,12000,0.3,80,10000,Oxford,20080,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,GCAMBRAU,011.44.1344.619268,2007-11-14T20:00:00.000Z,SA_MAN,11000,0.3,80,10000,Oxford,20080,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,EZLOTKEY,011.44.1344.429018,2008-02-28T20:00:00.000Z,SA_MAN,10500,0.2,80,10000,Oxford,20080,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,PTUCKER,011.44.1344.129268,2005-03-01T21:00:00.000Z,SA_REP,10000,0.3,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,DBERNSTE,011.44.1344.345268,2005-04-23T20:00:00.000Z,SA_REP,9500,0.25,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,PHALL,011.44.1344.478968,2005-09-19T20:00:00.000Z,SA_REP,9000,0.25,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,COLSEN,011.44.1344.498718,2006-04-29T20:00:00.000Z,SA_REP,8000,0.2,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,NCAMBRAU,011.44.1344.987668,2007-01-08T20:00:00.000Z,SA_REP,7500,0.2,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,OTUVAULT,011.44.1344.486508,2007-12-22T20:00:00.000Z,SA_REP,7000,0.15,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,JKING,011.44.1345.429268,2004-02-29T20:00:00.000Z,SA_REP,10000,0.35,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,PSULLY,011.44.1345.929268,2004-04-03T19:00:00.000Z,SA_REP,9500,0.35,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,AMCEWEN,011.44.1345.829268,2004-08-31T20:00:00.000Z,SA_REP,9000,0.35,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,LSMITH,011.44.1345.729268,2005-04-09T20:00:00.000Z,SA_REP,8000,0.3,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,LDORAN,011.44.1345.629268,2006-01-14T20:00:00.000Z,SA_REP,7500,0.3,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,SSEWALL,011.44.1345.529268,2006-12-02T20:00:00.000Z,SA_REP,7000,0.25,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,CVISHNEY,011.44.1346.129268,2005-12-10T20:00:00.000Z,SA_REP,10500,0.25,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,DGREENE,011.44.1346.229268,2007-04-18T20:00:00.000Z,SA_REP,9500,0.15,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,MMARVINS,011.44.1346.329268,2008-02-23T20:00:00.000Z,SA_REP,7200,0.1,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,DLEE,011.44.1346.529268,2008-03-22T20:00:00.000Z,SA_REP,6800,0.1,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,SANDE,011.44.1346.629268,2008-04-23T20:00:00.000Z,SA_REP,6400,0.1,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,ABANDA,011.44.1346.729268,2008-05-20T20:00:00.000Z,SA_REP,6200,0.1,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,LOZER,011.44.1343.929268,2005-04-10T20:00:00.000Z,SA_REP,11500,0.25,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,HBLOOM,011.44.1343.829268,2006-04-22T20:00:00.000Z,SA_REP,10000,0.2,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,TFOX,011.44.1343.729268,2006-02-23T20:00:00.000Z,SA_REP,9600,0.2,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,WSMITH,011.44.1343.629268,2007-03-22T20:00:00.000Z,SA_REP,7400,0.15,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,EBATES,011.44.1343.529268,2007-04-23T20:00:00.000Z,SA_REP,7300,0.15,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,SKUMAR,011.44.1343.329268,2008-05-20T20:00:00.000Z,SA_REP,6100,0.1,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,EABEL,011.44.1644.429267,2004-06-10T19:00:00.000Z,SA_REP,11000,0.3,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,AHUTTON,011.44.1644.429266,2005-04-18T20:00:00.000Z,SA_REP,8800,0.25,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,JTAYLOR,011.44.1644.429265,2006-04-23T20:00:00.000Z,SA_REP,8600,0.2,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,JLIVINGS,011.44.1644.429264,2006-05-22T20:00:00.000Z,SA_REP,8400,0.2,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,KGRANT,011.44.1644.429263,2007-06-23T20:00:00.000Z,SA_REP,7000,0.15,,6000,,12008,,,,,,,,
+,,,,,,CJOHNSON,011.44.1644.429262,2008-02-03T20:00:00.000Z,SA_REP,6200,0.1,80,6000,Oxford,12008,Sales,2500,Magdalen Centre The Oxford Science Park,OX9 9ZB,UK,United Kingdom,1,Europe
+,,,,,,WTAYLOR,650.507.9876,2006-02-23T20:00:00.000Z,SH_CLERK,3200,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,JFLEAUR,650.507.9877,2006-03-22T20:00:00.000Z,SH_CLERK,3100,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,MSULLIVA,650.507.9878,2007-07-20T20:00:00.000Z,SH_CLERK,2500,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,GGEONI,650.507.9879,2008-03-02T20:00:00.000Z,SH_CLERK,2800,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,NSARCHAN,650.509.1876,2004-02-26T20:00:00.000Z,SH_CLERK,4200,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,ABULL,650.509.2876,2005-03-19T21:00:00.000Z,SH_CLERK,4100,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,JDELLING,650.509.3876,2006-07-23T20:00:00.000Z,SH_CLERK,3400,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,ACABRIO,650.509.4876,2007-03-06T20:00:00.000Z,SH_CLERK,3000,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,KCHUNG,650.505.1876,2005-07-13T20:00:00.000Z,SH_CLERK,3800,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,JDILLY,650.505.2876,2005-09-12T20:00:00.000Z,SH_CLERK,3600,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,TGATES,650.505.3876,2006-08-10T20:00:00.000Z,SH_CLERK,2900,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,RPERKINS,650.505.4876,2008-01-18T20:00:00.000Z,SH_CLERK,2500,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,SBELL,650.501.1876,2004-03-03T20:00:00.000Z,SH_CLERK,4000,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,BEVERETT,650.501.2876,2005-04-02T20:00:00.000Z,SH_CLERK,3900,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,SMCCAIN,650.501.3876,2006-07-31T20:00:00.000Z,SH_CLERK,3200,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,VJONES,650.501.4876,2007-04-16T20:00:00.000Z,SH_CLERK,2800,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,AWALSH,650.507.9811,2006-05-23T20:00:00.000Z,SH_CLERK,3100,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,KFEENEY,650.507.9822,2006-06-22T20:00:00.000Z,SH_CLERK,3000,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,DOCONNEL,650.507.9833,2007-07-20T20:00:00.000Z,SH_CLERK,2600,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,DGRANT,650.507.9844,2008-02-12T20:00:00.000Z,SH_CLERK,2600,,50,2500,California,5500,Shipping,1500,2011 Interiors Blvd,99236,US,United States of America,2,Americas
+,,,,,,JWHALEN,515.123.4444,2003-10-16T19:00:00.000Z,AD_ASST,4400,,10,3000,Washington,6000,Administration,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+,,,,,,MHARTSTE,515.123.5555,2004-03-16T20:00:00.000Z,MK_MAN,13000,,20,9000,Ontario,15000,Marketing,1800,147 Spadina Ave,M5V 2L7,CA,Canada,2,Americas
+,,,,,,PFAY,603.123.6666,2005-09-16T20:00:00.000Z,MK_REP,6000,,20,4000,Ontario,9000,Marketing,1800,147 Spadina Ave,M5V 2L7,CA,Canada,2,Americas
+,,,,,,SMAVRIS,515.123.7777,2002-07-06T19:00:00.000Z,HR_REP,6500,,40,4000,,9000,Human Resources,2400,8204 Arthur St,NULL,UK,United Kingdom,1,Europe
+,,,,,,HBAER,515.123.8888,2002-07-06T19:00:00.000Z,PR_REP,10000,,70,4500,Bavaria,10500,Public Relations,2700,Schwanthalerstr. 7031,80925,DE,Germany,1,Europe
+,,,,,,SHIGGINS,515.123.8080,2002-07-06T19:00:00.000Z,AC_MGR,12008,,110,8200,Washington,16000,Accounting,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+,,,,,,WGIETZ,515.123.8181,2002-07-06T19:00:00.000Z,AC_ACCOUNT,8300,,110,4200,Washington,9000,Accounting,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
